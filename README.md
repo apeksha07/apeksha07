@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... Btech
 - 💞️ I’m looking to collaborate on ...Any Platform
 - 📫 How to reach me ...
+https://apekshak7.carrd.co/
 
 <!---
 apeksha07/apeksha07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
